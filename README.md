@@ -54,7 +54,7 @@ Where:
 The Rectified Linear Unit (ReLU) introduces non-linearity into the network and is commonly used in hidden layers.
 
 $$
-\operatorname{ReLU}(z) = \max(0,z)
+\text{ReLU}(z) = \max(0,z)
 $$
 
 For negative inputs, ReLU returns zero. For positive inputs, it returns the input value.
